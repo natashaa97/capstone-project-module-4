@@ -1,0 +1,6 @@
+ultralytics
+supervision
+streamlit
+numpy
+Pillow
+plotly
